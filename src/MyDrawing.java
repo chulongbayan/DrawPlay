@@ -15,6 +15,10 @@ public class MyDrawing extends JPanel {
 	// to display (e.g., when the program starts)
 	public void paintComponent(Graphics g) {
 		cat.draw(g, 50, 50);
+		cat.draw(g, 300, 50);
+		cat.draw(g, 300, 300);
+		cat.draw(g, 50, 300);
+		cat.draw(g, 175, 175);
 	}
 	
 	/**
@@ -27,10 +31,10 @@ public class MyDrawing extends JPanel {
 		// Program will end when the window is closed
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		// Set the size (otherwise only title bar displays)
-		frame.setSize(400, 400);
+		frame.setSize(800, 800);
 		
 		// Frame will not display until you set visible true
-		frame.setVisible(false);
+		frame.setVisible(true);
 	}
 
 }
