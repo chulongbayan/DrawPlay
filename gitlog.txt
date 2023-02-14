@@ -1,0 +1,47 @@
+commit 8caf9ad82a5b5763f23b55be076653d7fd82cbe2
+Author: Braden Gehr <bbgehr@mines.edu>
+Date:   Tue Feb 14 10:30:29 2023 -0700
+
+    Changed cat drawing to resemble origin cat
+
+commit ad33deb0b932e8b4fdc92fa16826ca9dc39600fa
+Author: Charles Hulongbayan <chulongbayan@mines.edu>
+Date:   Tue Feb 14 10:21:10 2023 -0700
+
+    revealed sus again, increased amount of sus
+
+commit 4886e3a3ed6b31434e571ca042d472d80a2381ff
+Author: Braden Gehr <bbgehr@mines.edu>
+Date:   Tue Feb 14 10:17:29 2023 -0700
+
+    changed MyDrawing class to set frame visibility to false, to hide the 'sus-ness'
+
+commit 5c61f4e46361a2bd1e10b050699b60720392c057
+Author: Charles Hulongbayan <chulongbayan@mines.edu>
+Date:   Tue Feb 14 10:14:01 2023 -0700
+
+    fixing version issues
+
+commit a56b370d873c143f7a8c7b21353ae3b7aeac9540
+Author: Charles Hulongbayan <chulongbayan@mines.edu>
+Date:   Tue Feb 14 10:04:53 2023 -0700
+
+     changed cat to be more sus
+
+commit 04cfe13d85cafc48e99fc30bafb3ac308f6a6d36
+Author: Braden Gehr <bbgehr@mines.edu>
+Date:   Tue Feb 14 09:57:05 2023 -0700
+
+    Changed cat dimension and colors. Modified drawString()
+
+commit 79a32fec533eea5f65c47e3cf8935712528f0544
+Author: Braden Gehr <bbgehr@mines.edu>
+Date:   Tue Feb 14 09:51:32 2023 -0700
+
+    test comment
+
+commit c5b3a1db5744f89fc470bbf33c78a34fe714dda0
+Author: Charles Hulongbayan <chulongbayan@mines.edu>
+Date:   Tue Feb 14 09:39:41 2023 -0700
+
+    initial git creation
